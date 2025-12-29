@@ -11,3 +11,5 @@ Es difícil encasillar estas ideas en categorías puntuales, pero se podría dec
 Estoy terminando de estudiar la carrera de Ciencias Físicas en la Facultad de Ciencias Exactas y Naturales de la UBA. Antes de esta carrera, estudié Medicina en la UBA durante 4 años y medio (CBC + Ciclo Biomédico + 1 cuatrimestre del Ciclo Clínico).
 
 Mucha gente me pregunta por mi tema de tesis de Licenciatura, así que [acá](https://www.notion.so/Mi-Tesis-de-Licenciatura-1f6319917f8145ae830d610c2bde0d83?pvs=21) te cuento un poco de qué trata.
+
+Ahora
