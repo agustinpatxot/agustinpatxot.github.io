@@ -1,3 +1,8 @@
+---
+layout: default
+title: recomendaciones
+---
+
 # Podcasts recomendados
 
 Una recopilación de podcasts que considero especialmente recomendables.
