@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: minima
 title: Notas al Margen
 ---
 
